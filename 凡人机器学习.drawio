@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-13T16:05:58.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="lGRk2x7TIuLA9fVUkBH5" version="13.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T02:21:24.157Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="XebXopJfDt-4YsHVPQuc" version="13.7.9" type="github">
   <diagram id="kg-UYQyCFYxkvt1WfG9r" name="Page-1">
-    <mxGraphModel dx="1278" dy="721" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="955" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -27,6 +27,9 @@
         </mxCell>
         <mxCell id="MFzQfJJGdbypKz52RJBu-7" value="半监督学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MFzQfJJGdbypKz52RJBu-9" value="监督学习" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="585" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
